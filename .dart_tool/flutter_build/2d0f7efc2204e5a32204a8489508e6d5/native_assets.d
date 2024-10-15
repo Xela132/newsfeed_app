@@ -1,0 +1,1 @@
+ C:\\Users\\alex6\\AndroidStudioProjects\\newsfeed_app\\.dart_tool\\flutter_build\\2d0f7efc2204e5a32204a8489508e6d5\\native_assets.yaml: 
