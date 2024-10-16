@@ -6,6 +6,8 @@ U-mee flutter HackAThon
 
 This project is a newsfeed app that emulates a social media app (at least the front end part of it)
 
+It should be in the lib directory and then main.dart
+
 to run the app, have a virtual android or physical (virtual is preferred) device. When the program
 is ran, it should display the app with no posts. in the bottom right corner is an add button (plus icon), which
 allows someone to write their name and a text post. These posts are put at the top of the screen. 
